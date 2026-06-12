@@ -67,7 +67,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 <div class="lang-zh" markdown="1">
 
-1. **C. Fan**, L. Zeng, Y. Sun, Y.-Y. Liu. Finding key players in complex networks through deep reinforcement learning. **Nature Machine Intelligence**, 2020. [ESI 高被引论文][[世界人工智能大会青年优秀论文奖](https://www.waicyop.cn/article/11)]
+1. **C. Fan**, L. Zeng, Y. Sun, Y.-Y. Liu. Finding key players in complex networks through deep reinforcement learning. **Nature Machine Intelligence**, 2020. [[TechXplore](https://techxplore.com/news/2020-06-deep-framework-key-players-complex.html)][[世界人工智能大会青年优秀论文奖](https://www.waicyop.cn/article/11)]
 2. **C. Fan**, M. Shen, Z. Nussinov, Z. Liu, Y. Sun, Y.-Y. Liu. Searching for spin glass ground states through deep reinforcement learning. **Nature Communications**, 2023.
 3. S. Liu, **C. Fan**, K. Cheng, Y. Wang, P. Cui, Y. Sun, Z. Liu. Inductive meta-path learning for schema-complex heterogeneous information networks. **IEEE TPAMI**, 2024.
 4. C. Zhu, M. Chen, **C. Fan**, G. Cheng, Y. Zhang. Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks. **AAAI**, 2021.
@@ -78,7 +78,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 <div class="lang-en" markdown="1">
 
-1. **C. Fan**, L. Zeng, Y. Sun, Y.-Y. Liu. Finding key players in complex networks through deep reinforcement learning. **Nature Machine Intelligence**, 2020. [ESI Highly Cited Paper][[WAIC Youth Outstanding Paper](https://www.waicyop.cn/article/11)]
+1. **C. Fan**, L. Zeng, Y. Sun, Y.-Y. Liu. Finding key players in complex networks through deep reinforcement learning. **Nature Machine Intelligence**, 2020. [[TechXplore](https://techxplore.com/news/2020-06-deep-framework-key-players-complex.html)][[WAIC Youth Outstanding Paper](https://www.waicyop.cn/article/11)]
 2. **C. Fan**, M. Shen, Z. Nussinov, Z. Liu, Y. Sun, Y.-Y. Liu. Searching for spin glass ground states through deep reinforcement learning. **Nature Communications**, 2023.
 3. S. Liu, **C. Fan**, K. Cheng, Y. Wang, P. Cui, Y. Sun, Z. Liu. Inductive meta-path learning for schema-complex heterogeneous information networks. **IEEE TPAMI**, 2024.
 4. C. Zhu, M. Chen, **C. Fan**, G. Cheng, Y. Zhang. Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks. **AAAI**, 2021.

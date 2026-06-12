@@ -22,7 +22,7 @@ repository               : "FFrankyy/FFrankyy.github.io"   # [GitHub用户名]/[
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"   # 头肩方形裁剪（圆形展示）；竖版半身照为 profile.jpg，原图备份为 profile-original.jpg
+  avatar           : "profile.jpg"   # 竖版半身照（圆角矩形展示，见 head/custom.html）；原图备份为 profile-original.jpg
   name             : '<span class="lang-en">Changjun Fan</span><span class="lang-zh">范长俊</span>'
   pronouns         :
   bio              : '<span class="lang-en">Associate Professor at NUDT. Graph deep learning, combinatorial optimization &amp; reinforcement learning.</span><span class="lang-zh">国防科技大学副教授。研究图深度学习、组合优化与强化学习。</span>'

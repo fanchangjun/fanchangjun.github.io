@@ -63,18 +63,6 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 </div>
 
-
-
-</div>
-
-<div class="lang-en" markdown="1">
-
-- **NSFC General Program** (2026 – 2028): Key Technologies of Temporal Knowledge Graphs under Incomplete Information
-- **NSFC Young Scientists Fund** (2023 – 2025): Processing Structural Similarity Queries on Large-Scale Graph Data
-- **Hunan Provincial NSF, Youth Program** (2015 – 2017): Frequent Subgraph Mining in a Single Massive Graph
-
-</div>
-
 ## <span class="lang-en">Selected Publications</span><span class="lang-zh">代表论文</span> <span style="font-weight:normal;font-size:0.7em;">[<a href="https://scholar.google.com/citations?user=z0Keb0sAAAAJ&hl=zh-CN">Google Scholar</a>]</span>
 
 <div class="lang-zh" markdown="1">
@@ -98,7 +86,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 </div>
 
-## <span class="lang-en">Selected Awards</span><span class="lang-zh">代表性获奖</span>
+## <span class="lang-en">Selected Awards</span><span class="lang-zh">代表性荣誉</span>
 
 <div class="lang-zh" markdown="1">
 
@@ -122,11 +110,20 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 </div>
 
-## <span class="lang-en">Projects</span><span class="lang-zh">科研项目</span>
+## <span class="lang-en">Selected Projects</span><span class="lang-zh">代表性科研项目</span>
 
 <div class="lang-zh" markdown="1">
 
-- 国家自然科学基金 **面上项目**（2026 – 2028）：不完全信息下时序知识图谱关键技术研究
-- 国家自然科学基金 **青年科学基金项目**（2023 – 2025）：大规模图数据上的结构相似性查询处理
-- 湖南省自然科学基金 **青年项目**（2015 – 2017）：单一大图中的频繁子图挖掘
+- 国家自然科学基金面上项目（2026 – 2028）：数智驱动的组合优化问题学习型求解研究
+- 国家自然科学基金青年科学基金项目（2023 – 2025）：面向图挖掘的归纳式神经元算子学习
+- 湖南省自然科学基金青年项目（2015 – 2017）：单一大图中的频繁子图挖掘
 
+</div>
+
+<div class="lang-en" markdown="1">
+
+- NSFC General Program (2026 – 2028): Research on Data-Intelligence-Driven Learning-Based Solving of Combinatorial Optimization Problems
+- NSFC Young Scientists Fund (2023 – 2025): Inductive Neural Operator Learning for Graph Mining
+- Hunan Provincial NSF, Youth Program (2015 – 2017): Frequent Subgraph Mining in a Single Massive Graph
+
+</div>

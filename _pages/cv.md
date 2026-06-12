@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 <div class="lang-zh" markdown="1">
-
-## 个人简介
 
 **范长俊（Changjun Fan）**，国防科技大学系统工程学院副教授、硕士生导师。研究方向为复杂网络、深度图学习与组合优化，及其在 AI for Science 与决策智能中的应用。
 
@@ -57,8 +55,6 @@ redirect_from:
 </div>
 
 <div class="lang-en" markdown="1">
-
-## Profile
 
 **Changjun Fan** is an Associate Professor at the College of Systems Engineering, National University of Defense Technology (NUDT). His research focuses on complex networks, deep graph learning, and combinatorial optimization, with applications to AI for Science and decision intelligence.
 

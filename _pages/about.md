@@ -94,7 +94,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 - IEEE SmartData会议最佳论文奖，2024（通讯作者）
 - 中国指挥与控制学会科技进步一等奖，2024 (6/12)
 - 吴文俊人工智能科技进步一等奖，2023 (12/15)
-- 世界人工智能大会青年优秀论文奖，2023 (1/4)
+- [世界人工智能大会青年优秀论文奖](https://www.waicyop.cn/article/11)，2023 (1/4)
 - 湖湘青年英才，2023
 - 国防科技大学青年创新奖一等奖，2022
 
@@ -102,12 +102,12 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 <div class="lang-en" markdown="1">
 
-- The 1st Prize of the Science and Technology Progress Award, awarded by China Simulation Society, 2025 (10/15)
+- First Prize of the Science and Technology Progress Award, awarded by China Simulation Society, 2025 (10/15)
 - Best Paper Award of IEEE SmartData, 2024 (Corresponding author)
-- The 1st Prize of the Wu Wenjun Artificial Intelligence Science and Technology Progress Award, awarded by Wu Wenjun Artificial Intelligence Society, 2023 (12/15)
-- World Artificial Intelligence Conference Youth Outstanding Paper Award, 2023 (1/4)
+- First Prize of the Wu Wenjun Artificial Intelligence Science and Technology Progress Award, awarded by Wu Wenjun Artificial Intelligence Society, 2023 (12/15)
+- [World Artificial Intelligence Conference Youth Outstanding Paper (WAICYOP) Award](https://www.waicyop.cn/article/11), 2023 (1/4)
 - The Science and Technology Innovation Program of Hunan Province, awarded by Department of Science and Technology of Hunan, 2023
-- The 1st Prize of the Youth Innovation Award, awarded by National University of Defense Technology, 2022
+- First Prize of the Youth Innovation Award, awarded by National University of Defense Technology, 2022
 
 </div>
 
@@ -115,16 +115,16 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 <div class="lang-zh" markdown="1">
 
-- 国家自然科学基金面上项目（2026 – 2028）：数智驱动的组合优化问题学习型求解研究，主持
-- 国家自然科学基金青年项目（2023 – 2025）：面向图挖掘的归纳式神经元算子学习，主持
-- 湖南省自然科学基金杰出青年项目（2015 – 2017）：智能图计算及其在（军事）目标体系中的应用，主持
+- 主持, 数智驱动的组合优化问题学习型求解研究, 国家自然科学基金面上项目, 2026 – 2028
+- 主持, 面向图挖掘的归纳式神经元算子学习, 国家自然科学基金青年项目, 2023 – 2025
+- 主持, 智能图计算及其在（军事）目标体系中的应用, 湖南省自然科学基金杰出青年项目, 2015 – 2017
 
 </div>
 
 <div class="lang-en" markdown="1">
 
-- NSFC General Project (2026 – 2028): Research on Data-Intelligence-Driven Learning-Based Solving of Combinatorial Optimization Problems, PI
-- NSFC Project for Young Scholars (2023 – 2025): Inductive Neural Operator Learning for Graph Mining, PI
-- Hunan Provincial NSF for Excellent Young Scholars (2015 – 2017): Intelligent Graph Computing and Its Application in (Military) Target Systems, PI
+- PI, Research on Data-Intelligence-Driven Learning-Based Solving of Combinatorial Optimization Problems, NSFC General Project, 2026 - 2028
+- PI, Inductive Neural Operator Learning for Graph Mining, NSFC Project for Young Scholars, 2023 – 2025
+- PI, Intelligent Graph Computing and Its Application in (Military) Target Systems, Hunan Provincial NSF for Excellent Young Scholars, 2015 – 2017
 
 </div>

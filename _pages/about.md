@@ -25,9 +25,9 @@ I am currently an Associate Professor at the College of Systems Engineering, Nat
 
 <div class="lang-zh" markdown="1">
 
-我正在招收对科研有热情、数理与编程基础扎实、沟通能力强的 硕士与博士研究生。欢迎报考国防科技大学，并在申请中将我列为意向导师。如果希望通过邮件自荐，请参考以下指南：
+我正在招收对科研有热情、数理与编程基础扎实、沟通能力强的硕士与博士研究生。欢迎报考国防科技大学，并在申请中将我列为意向导师。如果希望通过邮件自荐，请参考以下指南：
 
-- 邮件主题：`Prospective Students_你的姓名`
+- 邮件主题：Prospective Students_你的姓名
 - 简要介绍你的教育背景、GPA/排名，以及其他亮点（如获奖、论文）
 - 简要介绍你的科研经历，并说明你的研究兴趣与优势
 
@@ -37,7 +37,7 @@ I am currently an Associate Professor at the College of Systems Engineering, Nat
 
 I am now recruiting Master and PhD students who are passionate about research, strong in maths and programming, and strong in communication skills. You are encouraged to apply to NUDT and mention me as your potential mentor. If you would like to introduce yourself via email, a guideline is provided below:
 
-- Subject line: `Prospective Students_YourName`
+- Subject line: Prospective Students_YourName
 - Briefly introduce your education background, your GPA/Rank, and other highlights (e.g., awards and publications).
 - Briefly introduce your research experience, and explain your general research interests and strengths.
 

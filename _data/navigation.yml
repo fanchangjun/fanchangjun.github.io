@@ -11,6 +11,9 @@ main:
   - title: '<span class="lang-en">Publications</span><span class="lang-zh">学术论文</span>'
     url: /publications/
 
+  - title: '<span class="lang-en">Software</span><span class="lang-zh">软件</span>'
+    url: /software/
+
   - title: '<span class="lang-en">Talks</span><span class="lang-zh">学术报告</span>'
     url: /talks/
 

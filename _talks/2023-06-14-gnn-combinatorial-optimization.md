@@ -1,26 +1,26 @@
 ---
-title: '<span class="lang-en">Graph Neural Networks Meet Combinatorial Optimization</span><span class="lang-zh">图神经网络与组合优化</span>'
+title: '<span class="lang-en">Reading Series: Graph Neural Networks & Combinatorial Optimization (Co-organizer & Opening Speaker)</span><span class="lang-zh">「图神经网络与组合优化」读书会（联合发起人 & 首期主讲）</span>'
 collection: talks
-type: '<span class="lang-en">Invited Talk</span><span class="lang-zh">邀请报告</span>'      # 报告类型：邀请报告 / 大会报告 / 教程 / 主旨报告
-permalink: /talks/2023-gnn-combinatorial-optimization                                      # 链接，建议 /talks/年份-英文短标题
-venue: '<span class="lang-en">Swarma Club Reading Series</span><span class="lang-zh">集智俱乐部读书会</span>'   # 主办方 / 会议 / 单位
-date: 2023-06-14                                                                            # 日期，格式 年-月-日（决定排序）
-location: '<span class="lang-en">Online</span><span class="lang-zh">线上</span>'            # 地点
-excerpt: '<span class="lang-zh">介绍图神经网络在神经算法推理与组合优化求解中的最新进展。</span><span class="lang-en">Recent progress of GNNs for neural algorithmic reasoning and combinatorial optimization.</span>'   # 列表中显示的一句话摘要
+type: '<span class="lang-en">Reading Series / Invited Talk</span><span class="lang-zh">系列读书会 / 主讲</span>'
+permalink: /talks/2023-gnn-combinatorial-optimization
+venue: '<span class="lang-en">Swarma Club</span><span class="lang-zh">集智俱乐部</span>'
+date: 2023-06-14
+location: '<span class="lang-en">Online</span><span class="lang-zh">线上</span>'
+excerpt: '<span class="lang-zh">联合发起读书会并主讲首期：图上组合优化的机器学习求解（最小顶点覆盖、网络瓦解、自旋玻璃基态等）。</span><span class="lang-en">Co-organized the reading series and delivered the opening talk on machine learning for combinatorial optimization on graphs.</span>'
 ---
 
 <div class="lang-zh" markdown="1">
 
-联合发起并主讲「图神经网络与组合优化」系列读书会，内容涵盖神经算法推理、组合优化问题求解、几何图神经网络，以及算法神经化求解在 AI for Science 中的应用。
+与中国人民大学黄文炳老师共同发起集智俱乐部「图神经网络与组合优化」读书会，并主讲首期报告「组合优化问题的机器学习求解」。报告系统介绍了图上组合优化问题的神经化求解进展，包括最小顶点覆盖、网络瓦解、自旋玻璃基态求解等问题，并探讨了神经算法推理与 AI for Science 等前沿方向。读书会自 2023 年 6 月 14 日起每周举行。
 
-> 这是一条**示例报告**。新增报告：复制本文件 → 改文件名为 `年-月-日-英文短标题.md` → 替换上面各字段与下面正文即可。
+相关报道：[集智俱乐部](https://swarma.org/?p=43213) · [分享整理](https://hub.baai.ac.cn/view/27679)
 
 </div>
 
 <div class="lang-en" markdown="1">
 
-Co-organized and delivered the "Graph Neural Networks & Combinatorial Optimization" reading series, covering neural algorithmic reasoning, combinatorial optimization, geometric GNNs, and applications to AI for Science.
+Co-organized the Swarma Club reading series "Graph Neural Networks & Combinatorial Optimization" (with Prof. Wenbing Huang, Renmin University of China) and delivered the opening talk, "Machine Learning for Combinatorial Optimization." The talk surveyed neural solvers for graph combinatorial optimization problems—including minimum vertex cover, network dismantling, and spin-glass ground-state search—and discussed frontiers such as neural algorithmic reasoning and AI for Science. The series ran weekly starting June 14, 2023.
 
-> This is a **sample talk**. To add a talk: copy this file, rename it `YYYY-MM-DD-short-title.md`, and replace the fields above and the text below.
+References: [Swarma Club](https://swarma.org/?p=43213) · [Summary](https://hub.baai.ac.cn/view/27679)
 
 </div>

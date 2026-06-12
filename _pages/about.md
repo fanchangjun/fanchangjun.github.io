@@ -11,13 +11,13 @@ redirect_from:
 
 <div class="lang-zh" markdown="1">
 
-我目前是 国防科技大学（NUDT）系统工程学院副教授。本科与博士均毕业于国防科技大学；2017–2019 年作为联合培养博士生在 加州大学洛杉矶分校（UCLA）访学，师从 Yizhou Sun 教授，期间还与 哈佛医学院 Yang-Yu Liu 教授密切合作。我的研究兴趣包括 复杂网络、深度图学习与组合优化。
+我目前是国防科技大学（NUDT）系统工程学院副教授。本科与博士均毕业于国防科技大学；2017–2019年作为联合培养博士生在加州大学洛杉矶分校（UCLA）访学，师从[Yizhou Sun](https://web.cs.ucla.edu/~yzsun/)教授，期间还与哈佛医学院[Yang-Yu Liu](https://yangyuliu.bwh.harvard.edu/)教授密切合作。我的研究兴趣包括复杂网络、深度图学习与组合优化。
 
 </div>
 
 <div class="lang-en" markdown="1">
 
-I am currently an Associate Professor at the College of Systems Engineering, National University of Defense Technology (NUDT), China. I received my bachelor and PhD degrees both at NUDT, where I had the fortune to be a visiting PhD student at UCLA from 2017 to 2019, advised by Prof. Yizhou Sun, during which I also worked closely with Prof. Yang-Yu Liu from Harvard Medical School. My research interests include complex network, deep graph learning, and combinatorial optimization.
+I am currently an Associate Professor at the College of Systems Engineering, National University of Defense Technology (NUDT), China. I received my bachelor and PhD degrees both at NUDT, where I had the fortune to be a visiting PhD student at UCLA from 2017 to 2019, advised by Prof. [Yizhou Sun](https://web.cs.ucla.edu/~yzsun/), during which I also worked closely with Prof. [Yang-Yu Liu](https://yangyuliu.bwh.harvard.edu/) from Harvard Medical School. My research interests include complex network, deep graph learning, and combinatorial optimization.
 
 </div>
 

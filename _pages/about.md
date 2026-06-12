@@ -78,10 +78,12 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 <div class="lang-en" markdown="1">
 
-1. **C. Fan**, L. Zeng, Y. Sun, Y.-Y. Liu. Finding key players in complex networks through deep reinforcement learning. *Nature Machine Intelligence*, 2020. *[ESI Highly Cited Paper][WAIC Youth Outstanding Paper]*
-2. **C. Fan**, M. Shen, Z. Nussinov, Z. Liu, Y. Sun, Y.-Y. Liu. Searching for spin glass ground states through deep reinforcement learning. *Nature Communications*, 2023.
-3. S. Liu, **C. Fan**, K. Cheng, Y. Wang, P. Cui, Y. Sun, Z. Liu. Inductive meta-path learning for schema-complex heterogeneous information networks. *IEEE TPAMI*, 2024.
-4. C. Zhu, M. Chen, **C. Fan**, G. Cheng, Y. Zhang. Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks. *AAAI*, 2021.
-5. T. Pu, Z. Geng, H. Liu, S. Liu, J. Wang, L. Zeng, C. Chen, **C. Fan**. RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains. *NeurIPS*, 2025.
+1. **C. Fan**, L. Zeng, Y. Sun, Y.-Y. Liu. Finding key players in complex networks through deep reinforcement learning. **Nature Machine Intelligence**, 2020. *[ESI Highly Cited Paper][WAIC Youth Outstanding Paper]*
+2. **C. Fan**, M. Shen, Z. Nussinov, Z. Liu, Y. Sun, Y.-Y. Liu. Searching for spin glass ground states through deep reinforcement learning. **Nature Communications**, 2023.
+3. S. Liu, **C. Fan**, K. Cheng, Y. Wang, P. Cui, Y. Sun, Z. Liu. Inductive meta-path learning for schema-complex heterogeneous information networks. **IEEE TPAMI**, 2024.
+4. C. Zhu, M. Chen, **C. Fan**, G. Cheng, Y. Zhang. Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks. **AAAI**, 2021.
+5. T. Pu, Z. Geng, H. Liu, S. Liu, J. Wang, L. Zeng, C. Chen, **C. Fan**. RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains. **NeurIPS**, 2025.
 
 </div>
+
+

@@ -11,9 +11,6 @@ redirect_from:
 
 <div class="lang-zh" markdown="1">
 
-> 提示：如需提供 PDF 版简历，把文件命名为 `cv.pdf` 放到 `files/` 目录，下面这行链接即可生效。
-> [下载 PDF 版简历](/files/cv.pdf)
-
 ## 个人简介
 
 **范长俊（Changjun Fan）**，国防科技大学系统工程学院副教授、硕士生导师。研究方向为复杂网络、深度图学习与组合优化，及其在 AI for Science 与决策智能中的应用。
@@ -60,9 +57,6 @@ redirect_from:
 </div>
 
 <div class="lang-en" markdown="1">
-
-> Tip: to offer a PDF résumé, put a file named `cv.pdf` into the `files/` folder and the link below will work.
-> [Download CV (PDF)](/files/cv.pdf)
 
 ## Profile
 

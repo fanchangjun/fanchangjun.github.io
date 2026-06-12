@@ -46,6 +46,14 @@
   .page__content img { max-width: 100%; height: auto; }
   /* 宽表格在小屏上可横向滚动，而不是撑破布局 */
   .page__content table { display: block; max-width: 100%; overflow-x: auto; }
+
+  /* ===== 头像：全身照不裁成圆形，改用圆角矩形，避免竖图被拉成椭圆 ===== */
+  .author__avatar img {
+    border-radius: 10px;       /* 圆角矩形，而非默认的 50% 圆形 */
+    max-width: 200px;          /* 控制桌面端显示尺寸 */
+    height: auto;              /* 保持原始竖版比例，不变形 */
+    object-fit: contain;
+  }
 </style>
 <script>
   /* 进入页面时尽早设置语言，避免内容闪烁；默认中文(zh) */

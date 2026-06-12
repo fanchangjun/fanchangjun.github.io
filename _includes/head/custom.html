@@ -47,11 +47,12 @@
   /* 宽表格在小屏上可横向滚动，而不是撑破布局 */
   .page__content table { display: block; max-width: 100%; overflow-x: auto; }
 
-  /* ===== 头像：全身照不裁成圆形，改用圆角矩形，避免竖图被拉成椭圆 ===== */
+  /* ===== 头像（竖版半身照）===== */
+  /* 覆盖主题默认的圆形裁剪：竖版照片用圆形会变成拉长的椭圆，改为圆角矩形并保持原始比例 */
   .author__avatar img {
-    border-radius: 10px;       /* 圆角矩形，而非默认的 50% 圆形 */
-    max-width: 200px;          /* 控制桌面端显示尺寸 */
-    height: auto;              /* 保持原始竖版比例，不变形 */
+    border-radius: 10px !important;
+    max-width: 180px;
+    height: auto;          /* 保持竖版照片的真实宽高比，不拉伸 */
     object-fit: contain;
   }
 </style>

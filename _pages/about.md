@@ -73,7 +73,6 @@ I am now recruiting Master and PhD students who are passionate about research, s
 4. C. Zhu, M. Chen, **C. Fan**, G. Cheng, Y. Zhang. Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks. *AAAI*, 2021.
 5. T. Pu, Z. Geng, H. Liu, S. Liu, J. Wang, L. Zeng, C. Chen, **C. Fan**. RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains. *NeurIPS*, 2025.
 
-完整列表见 **[学术论文](/publications/)** 页面。
 
 </div>
 
@@ -84,7 +83,5 @@ I am now recruiting Master and PhD students who are passionate about research, s
 3. S. Liu, **C. Fan**, K. Cheng, Y. Wang, P. Cui, Y. Sun, Z. Liu. Inductive meta-path learning for schema-complex heterogeneous information networks. *IEEE TPAMI*, 2024.
 4. C. Zhu, M. Chen, **C. Fan**, G. Cheng, Y. Zhang. Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks. *AAAI*, 2021.
 5. T. Pu, Z. Geng, H. Liu, S. Liu, J. Wang, L. Zeng, C. Chen, **C. Fan**. RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains. *NeurIPS*, 2025.
-
-See the **[Publications](/publications/)** page for the full list.
 
 </div>

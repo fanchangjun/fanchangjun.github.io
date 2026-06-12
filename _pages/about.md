@@ -11,13 +11,13 @@ redirect_from:
 
 <div class="lang-zh" markdown="1">
 
-我目前是 **国防科技大学（NUDT）系统工程学院副教授**。本科与博士均毕业于国防科技大学；2017–2019 年作为联合培养博士生在 **加州大学洛杉矶分校（UCLA）** 访学，师从 **Yizhou Sun（孙怡舟）** 教授，期间还与 **哈佛医学院 Yang-Yu Liu（刘洋彧）** 教授密切合作。我的研究兴趣包括 **复杂网络、深度图学习与组合优化**。
+我目前是 国防科技大学（NUDT）系统工程学院副教授。本科与博士均毕业于国防科技大学；2017–2019 年作为联合培养博士生在 加州大学洛杉矶分校（UCLA）访学，师从 Yizhou Sun 教授，期间还与 哈佛医学院 Yang-Yu Liu 教授密切合作。我的研究兴趣包括 复杂网络、深度图学习与组合优化。
 
 </div>
 
 <div class="lang-en" markdown="1">
 
-I am currently an **Associate Professor at the College of Systems Engineering, National University of Defense Technology (NUDT), China**. I received my bachelor and PhD degrees both at NUDT, where I had the fortune to be a visiting PhD student at **UCLA from 2017 to 2019**, advised by **Prof. Yizhou Sun**, during which I also worked closely with **Prof. Yang-Yu Liu** from Harvard Medical School. My research interests include **complex network, deep graph learning, and combinatorial optimization**.
+I am currently an Associate Professor at the College of Systems Engineering, National University of Defense Technology (NUDT), China. I received my bachelor and PhD degrees both at NUDT, where I had the fortune to be a visiting PhD student at UCLA from 2017 to 2019, advised by Prof. Yizhou Sun, during which I also worked closely with Prof. Yang-Yu Liu from Harvard Medical School. My research interests include complex network, deep graph learning, and combinatorial optimization.
 
 </div>
 
@@ -25,9 +25,9 @@ I am currently an **Associate Professor at the College of Systems Engineering, N
 
 <div class="lang-zh" markdown="1">
 
-我正在招收对科研有热情、数理与编程基础扎实、沟通能力强的 **硕士与博士研究生**。欢迎报考国防科技大学，并在申请中将我列为意向导师。如果希望通过邮件自荐，请参考以下指南：
+我正在招收对科研有热情、数理与编程基础扎实、沟通能力强的 硕士与博士研究生。欢迎报考国防科技大学，并在申请中将我列为意向导师。如果希望通过邮件自荐，请参考以下指南：
 
-- **邮件主题**：`Prospective Students_你的姓名`
+- 邮件主题：`Prospective Students_你的姓名`
 - 简要介绍你的教育背景、GPA/排名，以及其他亮点（如获奖、论文）
 - 简要介绍你的科研经历，并说明你的研究兴趣与优势
 
@@ -35,9 +35,9 @@ I am currently an **Associate Professor at the College of Systems Engineering, N
 
 <div class="lang-en" markdown="1">
 
-I am now recruiting **Master and PhD students** who are passionate about research, strong in maths and programming, and strong in communication skills. You are encouraged to apply to NUDT and mention me as your potential mentor. If you would like to introduce yourself via email, a guideline is provided below:
+I am now recruiting Master and PhD students who are passionate about research, strong in maths and programming, and strong in communication skills. You are encouraged to apply to NUDT and mention me as your potential mentor. If you would like to introduce yourself via email, a guideline is provided below:
 
-- **Subject line**: `Prospective Students_YourName`
+- Subject line: `Prospective Students_YourName`
 - Briefly introduce your education background, your GPA/Rank, and other highlights (e.g., awards and publications).
 - Briefly introduce your research experience, and explain your general research interests and strengths.
 

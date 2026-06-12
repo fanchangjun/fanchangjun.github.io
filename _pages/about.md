@@ -63,6 +63,48 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 </div>
 
+## <span class="lang-en">Selected Awards</span><span class="lang-zh">代表性获奖</span>
+
+<div class="lang-zh" markdown="1">
+
+- 中国仿真学会 **科学技术进步奖一等奖**，2025
+- IEEE SmartData **最佳论文奖**，2024（通讯作者）
+- 中国指挥与控制学会 **科学技术进步奖一等奖**，2024
+- 吴文俊人工智能科学技术进步奖 **一等奖**，2023
+- **世界人工智能大会（WAIC）青年优秀论文奖**，2023
+- 国防科技大学 **青年创新奖一等奖**，2022
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+- **First Prize**, Science and Technology Progress Award, China Simulation Federation, 2025
+- **Best Paper Award**, IEEE SmartData, 2024 (Corresponding author)
+- **First Prize**, Science and Technology Progress Award, Chinese Institute of Command and Control, 2024
+- **First Prize**, Wu Wenjun Artificial Intelligence Science and Technology Progress Award, 2023
+- **WAIC Youth Outstanding Paper Award**, World Artificial Intelligence Conference, 2023
+- **First Prize**, Youth Innovation Award, NUDT, 2022
+
+</div>
+
+## <span class="lang-en">Projects</span><span class="lang-zh">科研项目</span>
+
+<div class="lang-zh" markdown="1">
+
+- 国家自然科学基金 **面上项目**（2026 – 2028）：不完全信息下时序知识图谱关键技术研究
+- 国家自然科学基金 **青年科学基金项目**（2023 – 2025）：大规模图数据上的结构相似性查询处理
+- 湖南省自然科学基金 **青年项目**（2015 – 2017）：单一大图中的频繁子图挖掘
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+- **NSFC General Program** (2026 – 2028): Key Technologies of Temporal Knowledge Graphs under Incomplete Information
+- **NSFC Young Scientists Fund** (2023 – 2025): Processing Structural Similarity Queries on Large-Scale Graph Data
+- **Hunan Provincial NSF, Youth Program** (2015 – 2017): Frequent Subgraph Mining in a Single Massive Graph
+
+</div>
+
 ## <span class="lang-en">Selected Publications</span><span class="lang-zh">代表论文</span> <span style="font-weight:normal;font-size:0.7em;">[<a href="https://scholar.google.com/citations?user=z0Keb0sAAAAJ&hl=zh-CN">Google Scholar</a>]</span>
 
 <div class="lang-zh" markdown="1">

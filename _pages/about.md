@@ -90,23 +90,24 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 <div class="lang-zh" markdown="1">
 
-- 中国仿真学会科学技术进步奖一等奖，2025
-- IEEE SmartData 最佳论文奖，2024（通讯作者）
-- 中国指挥与控制学会 科学技术进步奖一等奖，2024
-- 吴文俊人工智能科学技术进步奖一等奖，2023
-- 世界人工智能大会（WAIC）青年优秀论文奖，2023
+- 中国仿真学会科技进步一等奖，2025 (10/15)
+- IEEE SmartData会议最佳论文奖，2024（通讯作者）
+- 中国指挥与控制学会科技进步一等奖，2024 (6/12)
+- 吴文俊人工智能科技进步一等奖，2023 (12/15)
+- 世界人工智能大会青年优秀论文奖，2023 (1/4)
+- 湖湘青年英才，2023
 - 国防科技大学青年创新奖一等奖，2022
 
 </div>
 
 <div class="lang-en" markdown="1">
 
-- First Prize, Science and Technology Progress Award, China Simulation Federation, 2025
-- Best Paper Award, IEEE SmartData, 2024 (Corresponding author)
-- First Prize, Science and Technology Progress Award, Chinese Institute of Command and Control, 2024
-- First Prize, Wu Wenjun Artificial Intelligence Science and Technology Progress Award, 2023
-- WAIC Youth Outstanding Paper Award, World Artificial Intelligence Conference, 2023
-- First Prize, Youth Innovation Award, NUDT, 2022
+- The 1st Prize of the Science and Technology Progress Award, awarded by China Simulation Society, 2025 (10/15)
+- Best Paper Award of IEEE SmartData, 2024 (Corresponding author)
+- The 1st Prize of the Wu Wenjun Artificial Intelligence Science and Technology Progress Award, awarded by Wu Wenjun Artificial Intelligence Society, 2023 (12/15)
+- World Artificial Intelligence Conference Youth Outstanding Paper Award, 2023 (1/4)
+- The Science and Technology Innovation Program of Hunan Province, awarded by Department of Science and Technology of Hunan, 2023
+- The 1st Prize of the Youth Innovation Award, awarded by National University of Defense Technology, 2022
 
 </div>
 

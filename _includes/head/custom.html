@@ -38,6 +38,14 @@
 
   /* 让中文字体更清晰一些 */
   html[data-lang="zh"] body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", "Helvetica Neue", Arial, "Hiragino Sans GB", sans-serif; }
+
+  /* ===== 移动端适配优化 ===== */
+  /* 长链接、长单词（如 arXiv 编号、URL）自动换行，避免窄屏横向溢出 */
+  .page__content, .archive__item-excerpt { overflow-wrap: break-word; word-wrap: break-word; }
+  /* 正文图片：限制最大宽度、自动高度，避免在手机上溢出或过大 */
+  .page__content img { max-width: 100%; height: auto; }
+  /* 宽表格在小屏上可横向滚动，而不是撑破布局 */
+  .page__content table { display: block; max-width: 100%; overflow-x: auto; }
 </style>
 <script>
   /* 进入页面时尽早设置语言，避免内容闪烁；默认中文(zh) */

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "范长俊 | Changjun Fan"
+title: '<span class="lang-en">Changjun Fan</span><span class="lang-zh">范长俊</span>'
 author_profile: true
 redirect_from: 
   - /about/

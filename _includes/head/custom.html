@@ -50,10 +50,12 @@
   /* ===== 头像（竖版半身照）===== */
   /* 覆盖主题默认的圆形裁剪：竖版照片用圆形会变成拉长的椭圆，改为圆角矩形并保持原始比例 */
   .author__avatar img {
-    border-radius: 10px !important;
-    max-width: 180px;
-    height: auto;          /* 保持竖版照片的真实宽高比，不拉伸 */
-    object-fit: contain;
+    border-radius: 12px !important;   /* 圆角矩形，而非圆形/椭圆 */
+    width: auto !important;           /* 取消主题 .sidebar img{width:100%} 的拉伸 */
+    max-width: 200px !important;      /* 控制最大显示尺寸 */
+    height: auto !important;          /* 保持竖版照片真实宽高比 */
+    border: 1px solid var(--global-border-color);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
   }
 </style>
 <script>

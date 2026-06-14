@@ -1,39 +1,67 @@
 ---
 layout: archive
-title: "Publications"
+title: '<span class="lang-en">Publication</span><span class="lang-zh">学术论文</span>'
 permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 {% if site.author.googlescholar %}
-  <div class="wordwrap">
-    <span class="lang-zh">更多论文请见我的 <a href="{{site.author.googlescholar}}">Google Scholar 主页</a>。</span>
-    <span class="lang-en">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</span>
+  <div class="wordwrap" style="margin-bottom: 1.2em;">
+    <span class="lang-zh">完整论文列表请见我的 <a href="{{ site.author.googlescholar }}">Google Scholar 主页</a>。（*：通讯作者）</span>
+    <span class="lang-en">A full list is available on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>. (*: corresponding author)</span>
   </div>
 {% endif %}
 
-{% include base_path %}
+{% assign pubs = site.publications | sort: 'date' | reverse %}
+{% assign year_groups = pubs | group_by_exp: "post", "post.date | date: '%Y'" %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
+{% for group in year_groups %}
+  <h2 class="pub-year">{{ group.name }}</h2>
+  <hr class="pub-year-rule" />
+  <ul class="pub-list">
+    {% for post in group.items %}
+      <li class="pub-item">
+        <span class="pub-citation">{{ post.citation }}</span>
+        {% if post.pdfurl or post.paperurl or post.supurl or post.newsurl %}
+          <span class="pub-links">
+            {% if post.pdfurl %}[<a href="{{ post.pdfurl }}"><span class="lang-en">PDF</span><span class="lang-zh">全文</span></a>]{% endif %}
+            {% if post.paperurl %}[<a href="{{ post.paperurl }}"><span class="lang-en">Paper</span><span class="lang-zh">原文</span></a>]{% endif %}
+            {% if post.supurl %}[<a href="{{ post.supurl }}"><span class="lang-en">SI</span><span class="lang-zh">附录</span></a>]{% endif %}
+            {% if post.newsurl %}[<a href="{{ post.newsurl }}"><span class="lang-en">News</span><span class="lang-zh">报道</span></a>]{% endif %}
+          </span>
+        {% endif %}
+      </li>
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  </ul>
+{% endfor %}
 
-
-
+<style>
+  .pub-year {
+    margin-top: 1.4em;
+    margin-bottom: 0.2em;
+    color: var(--global-theme-color, #1565c0);
+  }
+  .pub-year-rule {
+    margin-top: 0;
+    margin-bottom: 0.8em;
+  }
+  .pub-list {
+    list-style: none;
+    margin: 0 0 1.2em 0;
+    padding: 0;
+  }
+  .pub-item {
+    margin-bottom: 0.9em;
+    padding-left: 1.2em;
+    text-indent: -1.2em;
+    line-height: 1.55;
+  }
+  .pub-links {
+    white-space: normal;
+  }
+  .pub-links a {
+    font-weight: 600;
+  }
+</style>

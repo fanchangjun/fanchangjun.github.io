@@ -8,17 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: '<span class="lang-en">Publications</span><span class="lang-zh">学术论文</span>'
+  - title: '<span class="lang-en">Publication</span><span class="lang-zh">学术论文</span>'
     url: /publications/
 
-  - title: '<span class="lang-en">Software</span><span class="lang-zh">软件</span>'
-    url: /software/
-
-  - title: '<span class="lang-en">Talks</span><span class="lang-zh">学术报告</span>'
-    url: /talks/
-
-  - title: '<span class="lang-en">Teaching</span><span class="lang-zh">教学</span>'
-    url: /teaching/
-
-  - title: '<span class="lang-en">CV</span><span class="lang-zh">个人简历</span>'
-    url: /cv/
+  - title: '<span class="lang-en">Service</span><span class="lang-zh">学术服务</span>'
+    url: /service/

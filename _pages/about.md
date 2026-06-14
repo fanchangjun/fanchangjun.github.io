@@ -17,7 +17,7 @@ redirect_from:
 
 <div class="lang-en" markdown="1">
 
-I am currently an Associate Professor at the College of Systems Engineering, National University of Defense Technology (NUDT), China. I received my bachelor and PhD degrees both at NUDT, where I had the fortune to be a visiting PhD student at UCLA from 2017 to 2019, advised by Prof. [Yizhou Sun](https://web.cs.ucla.edu/~yzsun/), during which I also worked closely with Prof. [Yang-Yu Liu](https://yangyuliu.bwh.harvard.edu/) from Harvard Medical School. My research interests include complex network, deep graph learning, and combinatorial optimization.
+I am currently an Associate Professor at the College of Systems Engineering, National University of Defense Technology (NUDT), China. I received my bachelor and PhD degrees both at NUDT, where I had the fortune to be a visiting PhD student at University of California, Los Angeles (UCLA) from 2017 to 2019, advised by Prof. [Yizhou Sun](https://web.cs.ucla.edu/~yzsun/), during which I also worked closely with Prof. [Yang-Yu Liu](https://yangyuliu.bwh.harvard.edu/) from Harvard Medical School. My research interests include complex network, deep graph learning, and combinatorial optimization.
 
 </div>
 
@@ -67,12 +67,12 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 <div class="lang-zh" markdown="1">
 
-(#: 通讯作者)
+(*: 通讯作者)
 1. **Changjun Fan**, Li Zeng, Yizhou Sun, Yang-Yu Liu. [Finding key players in complex networks through deep reinforcement learning](/pdfs/2020FINDER_main.pdf). **Nature Machine Intelligence**, 2020. [[附录](/pdfs/2020FINDER_SI.pdf)][[TechXplore](https://techxplore.com/news/2020-06-deep-framework-key-players-complex.html)][[世界人工智能大会青年优秀论文奖](https://www.waicyop.cn/article/11)]
 2. **Changjun Fan**, Mutian Shen, Zohar Nussinov, Zhong Liu, Yizhou Sun, Yang-Yu Liu. Searching for spin glass ground states through deep reinforcement learning. **Nature Communications**, 2023.
-3. Shixuan Liu, **Changjun Fan#**, Kewei Cheng, Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu. Inductive meta-path learning for schema-complex heterogeneous information networks. **IEEE TPAMI**, 2024.
-4. Cunchao Zhu, Muhao Chen, **Changjun Fan**, Guangquan Cheng, Yan Zhang. Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks. **AAAI**, 2021.
-5. Tianle Pu, Zijie Geng, Haoyang Liu, Shixuan Liu, Jie Wang, Li Zeng, Chao Chen, **Changjun Fan#**. RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains. **NeurIPS**, 2025.
+3. Shixuan Liu, **Changjun Fan***, Kewei Cheng, Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu. Inductive meta-path learning for schema-complex heterogeneous information networks. **IEEE TPAMI**, 2024.
+4. Cunchao Zhu, Muhao Chen, **Changjun Fan***, Guangquan Cheng, Yan Zhang. Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks. **AAAI**, 2021.
+5. Tianle Pu, Zijie Geng, Haoyang Liu, Shixuan Liu, Jie Wang, Li Zeng, Chao Chen, **Changjun Fan***. RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains. **NeurIPS**, 2025.
 
 
 </div>

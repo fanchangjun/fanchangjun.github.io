@@ -71,7 +71,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 1. **Changjun Fan**, Li Zeng, Yizhou Sun, Yang-Yu Liu. [Finding key players in complex networks through deep reinforcement learning](/pdfs/2020FINDER_main.pdf). **Nature Machine Intelligence**, 2020. [[附录](/pdfs/2020FINDER_SI.pdf)][[TechXplore](https://techxplore.com/news/2020-06-deep-framework-key-players-complex.html)][[世界人工智能大会青年优秀论文奖](https://www.waicyop.cn/article/11)]
 2. **Changjun Fan**, Mutian Shen, Zohar Nussinov, Zhong Liu, Yizhou Sun, Yang-Yu Liu. [Searching for spin glass ground states through deep reinforcement learning](/pdfs/2023DIRAC_main.pdf). **Nature Communications**, 2023.[[附录](/pdfs/2023DIRAC_SI.pdf)]
 3. Shixuan Liu, **Changjun Fan***, Kewei Cheng, Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu. [Inductive meta-path learning for schema-complex heterogeneous information networks](/pdfs/2024SchemaWalk). **IEEE TPAMI**, 2024.
-4. Cunchao Zhu, Muhao Chen, **Changjun Fan***, Guangquan Cheng, Yan Zhang. Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks. **AAAI**, 2021.
+4. Cunchao Zhu, Muhao Chen, **Changjun Fan***, Guangquan Cheng, Yan Zhang. [Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks](/pdfs/2021CyGNet.pdf). **AAAI**, 2021.
 5. Tianle Pu, Zijie Geng, Haoyang Liu, Shixuan Liu, Jie Wang, Li Zeng, Chao Chen, **Changjun Fan***. RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains. **NeurIPS**, 2025.
 
 
@@ -83,7 +83,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 1. **Changjun Fan**, Li Zeng, Yizhou Sun, Yang-Yu Liu. [Finding key players in complex networks through deep reinforcement learning](/pdfs/2020FINDER_main.pdf). **Nature Machine Intelligence**, 2020. [[Supplementary Information](/pdfs/2020FINDER_SI.pdf)][[TechXplore](https://techxplore.com/news/2020-06-deep-framework-key-players-complex.html)][[WAIC Youth Outstanding Paper](https://www.waicyop.cn/article/11)]
 2. **Changjun Fan**, Mutian Shen, Zohar Nussinov, Zhong Liu, Yizhou Sun, Yang-Yu Liu. [Searching for spin glass ground states through deep reinforcement learning](/pdfs/2023DIRAC_main.pdf). **Nature Communications**, 2023.[[Supplementary Information](/pdfs/2023DIRAC_SI.pdf)]
 3. Shixuan Liu, **Changjun Fan***, Kewei Cheng, Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu. [Inductive meta-path learning for schema-complex heterogeneous information networks](/pdfs/2024SchemaWalk). **IEEE TPAMI**, 2024.
-4. Cunchao Zhu, Muhao Chen, **Changjun Fan***, Guangquan Cheng, Yan Zhang. Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks. **AAAI**, 2021.
+4. Cunchao Zhu, Muhao Chen, **Changjun Fan***, Guangquan Cheng, Yan Zhang. [Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks](/pdfs/2021CyGNet.pdf). **AAAI**, 2021.
 5. Tianle Pu, Zijie Geng, Haoyang Liu, Shixuan Liu, Jie Wang, Li Zeng, Chao Chen, **Changjun Fan***. RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains. **NeurIPS**, 2025.
 
 </div>

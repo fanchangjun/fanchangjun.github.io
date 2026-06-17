@@ -72,7 +72,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 2. **Changjun Fan**, Mutian Shen, Zohar Nussinov, Zhong Liu, Yizhou Sun, Yang-Yu Liu. [Searching for spin glass ground states through deep reinforcement learning](/pdfs/2023DIRAC_main.pdf). **Nature Communications**, 2023.[[附录](/pdfs/2023DIRAC_SI.pdf)]
 3. Shixuan Liu, **Changjun Fan***, Kewei Cheng, Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu. [Inductive meta-path learning for schema-complex heterogeneous information networks](/pdfs/2024SchemaWalk). **IEEE TPAMI**, 2024.
 4. Cunchao Zhu, Muhao Chen, **Changjun Fan***, Guangquan Cheng, Yan Zhang. [Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks](/pdfs/2021CyGNet.pdf). **AAAI**, 2021.
-5. Tianle Pu, Zijie Geng, Haoyang Liu, Shixuan Liu, Jie Wang, Li Zeng, Chao Chen, **Changjun Fan***. RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains. **NeurIPS**, 2025.
+5. Tianle Pu, Zijie Geng, Haoyang Liu, Shixuan Liu, Jie Wang, Li Zeng, Chao Chen, **Changjun Fan***. [RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains](/pdfs/2025RoME.pdf). **NeurIPS**, 2025.
 
 
 </div>
@@ -84,7 +84,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 2. **Changjun Fan**, Mutian Shen, Zohar Nussinov, Zhong Liu, Yizhou Sun, Yang-Yu Liu. [Searching for spin glass ground states through deep reinforcement learning](/pdfs/2023DIRAC_main.pdf). **Nature Communications**, 2023.[[Supplementary Information](/pdfs/2023DIRAC_SI.pdf)]
 3. Shixuan Liu, **Changjun Fan***, Kewei Cheng, Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu. [Inductive meta-path learning for schema-complex heterogeneous information networks](/pdfs/2024SchemaWalk). **IEEE TPAMI**, 2024.
 4. Cunchao Zhu, Muhao Chen, **Changjun Fan***, Guangquan Cheng, Yan Zhang. [Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks](/pdfs/2021CyGNet.pdf). **AAAI**, 2021.
-5. Tianle Pu, Zijie Geng, Haoyang Liu, Shixuan Liu, Jie Wang, Li Zeng, Chao Chen, **Changjun Fan***. RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains. **NeurIPS**, 2025.
+5. Tianle Pu, Zijie Geng, Haoyang Liu, Shixuan Liu, Jie Wang, Li Zeng, Chao Chen, **Changjun Fan***. [RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains](/pdfs/2025RoME.pdf) **NeurIPS**, 2025.
 
 </div>
 

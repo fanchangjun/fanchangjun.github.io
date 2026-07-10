@@ -48,9 +48,9 @@ I am now recruiting Master and PhD students who are passionate about research, s
 <div class="lang-zh" markdown="1">
 
 - 复杂网络分析、网络瓦解、网络韧性
-- 面向组合优化的机器学习
+- 机器学习与组合优化
 - AI for Science
-- 决策智能
+- 大模型与决策智能
 
 </div>
 
@@ -59,7 +59,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 - Complex network analysis, network dismantling, network resilience
 - Machine learning for combinatorial optimization
 - AI for Science
-- Decision intelligence
+- Large foundation model and decision intelligence
 
 </div>
 

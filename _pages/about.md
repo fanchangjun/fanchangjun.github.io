@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="lang-zh" markdown="1">
 
-我目前是国防科技大学（NUDT）系统工程学院副教授，博士生导师。本科与博士均毕业于国防科技大学；2017–2019年作为联合培养博士生在加州大学洛杉矶分校（UCLA）访学，师从[Yizhou Sun](https://web.cs.ucla.edu/~yzsun/)教授，期间还与哈佛医学院[Yang-Yu Liu](https://yangyuliu.bwh.harvard.edu/)教授密切合作。我的研究兴趣包括复杂网络、图机器学习与运筹优化。
+我目前是国防科技大学（NUDT）系统工程学院副教授，博士生导师。本硕博均毕业于国防科技大学，2017–2019年作为联合培养博士生在加州大学洛杉矶分校（UCLA）访学，师从[Yizhou Sun](https://web.cs.ucla.edu/~yzsun/)教授，期间还与哈佛医学院[Yang-Yu Liu](https://yangyuliu.bwh.harvard.edu/)教授密切合作。我的研究兴趣包括复杂网络、图机器学习与运筹优化。
 
 </div>
 
@@ -66,23 +66,25 @@ I am now recruiting Master and PhD students who are passionate about research, s
 ## <span class="lang-en">Selected Publications</span><span class="lang-zh">代表论文</span> <span style="font-weight:normal;font-size:0.7em;">[<a href="https://scholar.google.com/citations?user=z0Keb0sAAAAJ&hl=zh-CN">Google Scholar</a>]</span>
 
 <div class="lang-zh" markdown="1">
+（*Corresponding Author）
 
 1. **C. Fan**, L. Zeng, Y. Sun, Y-Y. Liu. [Finding key players in complex networks through deep reinforcement learning](/pdfs/2020FINDER_main.pdf). **Nature Machine Intelligence**, 2020. [[附录](/pdfs/2020FINDER_SI.pdf)][[TechXplore](https://techxplore.com/news/2020-06-deep-framework-key-players-complex.html)][[世界人工智能大会青年优秀论文奖](https://www.waicyop.cn/article/11)]
 2. **C. Fan#**, M. Shen, Z. Nussinov, Z. Liu, Y. Sun, Y-Y. Liu. [Searching for spin glass ground states through deep reinforcement learning](/pdfs/2023DIRAC_main.pdf). **Nature Communications**, 2023.[[附录](/pdfs/2023DIRAC_SI.pdf)]
-3. S. Liu, **C. Fan**, K. Cheng, Y. Wang, P. Cui, Y. Sun, Z. Liu. [Inductive meta-path learning for schema-complex heterogeneous information networks](/pdfs/2024SchemaWalk.pdf). **IEEE TPAMI**, 2024.
-4. C. Zhu, M. Chen, **C. Fan**, G. Cheng, Y. Zhang. [Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks](/pdfs/2021CyGNet.pdf). **AAAI**, 2021.
-5. T. Pu, Z. Geng, H. Liu, S. Liu, J. Wang, L. Zeng, C. Chen, **C. Fan**. [RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains](/pdfs/2025RoME.pdf). **NeurIPS**, 2025.
+3. S. Liu, **C. Fan***, K. Cheng, Y. Wang, P. Cui, Y. Sun, Z. Liu. [Inductive meta-path learning for schema-complex heterogeneous information networks](/pdfs/2024SchemaWalk.pdf). **IEEE TPAMI**, 2024.
+4. C. Zhu, M. Chen, **C. Fan***, G. Cheng, Y. Zhang. [Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks](/pdfs/2021CyGNet.pdf). **AAAI**, 2021.
+5. T. Pu, Z. Geng, H. Liu, S. Liu, J. Wang, L. Zeng, C. Chen, **C. Fan***. [RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains](/pdfs/2025RoME.pdf). **NeurIPS**, 2025.
 
 
 </div>
 
 <div class="lang-en" markdown="1">
+（*Corresponding Author）
 
 1. **C. Fan**, L. Zeng, Y. Sun, Y-Y. Liu. [Finding key players in complex networks through deep reinforcement learning](/pdfs/2020FINDER_main.pdf). **Nature Machine Intelligence**, 2020. [[Supplementary Information](/pdfs/2020FINDER_SI.pdf)][[TechXplore](https://techxplore.com/news/2020-06-deep-framework-key-players-complex.html)][[WAIC Youth Outstanding Paper](https://www.waicyop.cn/article/11)]
 2. **C. Fan#**, M. Shen, Z. Nussinov, Z. Liu, Y. Sun, Y-Y. Liu. [Searching for spin glass ground states through deep reinforcement learning](/pdfs/2023DIRAC_main.pdf). **Nature Communications**, 2023.[[Supplementary Information](/pdfs/2023DIRAC_SI.pdf)]
-3. S. Liu, **C. Fan**, K. Cheng, Y. Wang, P. Cui, Y. Sun, Z. Liu. [Inductive meta-path learning for schema-complex heterogeneous information networks](/pdfs/2024SchemaWalk.pdf). **IEEE TPAMI**, 2024.
-4. C. Zhu, M. Chen, **C. Fan**, G. Cheng, Y. Zhang [Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks](/pdfs/2021CyGNet.pdf). **AAAI**, 2021.
-5. T. Pu, Z. Geng, H. Liu, S. Liu, J. Wang, L. Zeng, C. Chen, **C. Fan**. [RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains](/pdfs/2025RoME.pdf) **NeurIPS**, 2025.
+3. S. Liu, **C. Fan***, K. Cheng, Y. Wang, P. Cui, Y. Sun, Z. Liu. [Inductive meta-path learning for schema-complex heterogeneous information networks](/pdfs/2024SchemaWalk.pdf). **IEEE TPAMI**, 2024.
+4. C. Zhu, M. Chen, **C. Fan***, G. Cheng, Y. Zhang [Learning from history: Modeling temporal knowledge graphs with sequential copy-generation networks](/pdfs/2021CyGNet.pdf). **AAAI**, 2021.
+5. T. Pu, Z. Geng, H. Liu, S. Liu, J. Wang, L. Zeng, C. Chen, **C. Fan***. [RoME: Domain-robust mixture-of-experts for MILP solution prediction across domains](/pdfs/2025RoME.pdf) **NeurIPS**, 2025.
 
 </div>
 
@@ -116,7 +118,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 <div class="lang-zh" markdown="1">
 
-- 主持，大规模复杂优化问题的XX运筹方法研究，军委科技委重点项目课题，1100w, 2026-2028
+- 主持，大规模xx优化问题的XX运筹方法研究，军科委重点项目课题，1100w, 2026-2028
 - 主持, 数智驱动的组合优化问题学习型求解研究, 国家自然科学基金面上项目, 40w, 2026 – 2028
 - 主持, 面向图挖掘的归纳式神经元算子学习, 国家自然科学基金青年项目, 30w,  2023 – 2025
 - 主持, 智能图计算及其在（军事）目标体系中的应用, 湖南省自然科学基金杰出青年项目, 50w, 2015 – 2017
@@ -125,7 +127,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 
 <div class="lang-en" markdown="1">
 
-- PI, Research on XX operation research methods for large-scale complex optimization problems, Key Project Sub‑topic of the Central Military Science and Technology Commission, 1100w, 2026-2028
+- PI, Research on XX operation research methods for large-scale XX optimization problems, Key Project Sub‑topic of the Central Military Science and Technology Commission, 1100w, 2026-2028
 - PI, Research on Data-Intelligence-Driven Learning-Based Solving of Combinatorial Optimization Problems, NSFC General Project, 40w, 2026 - 2028
 - PI, Inductive Neural Operator Learning for Graph Mining, NSFC Project for Young Scholars, 30w, 2023 – 2025
 - PI, Intelligent Graph Computing and Its Application in (Military) Target Systems, Hunan Provincial NSF for Excellent Young Scholars, 50w, 2015 – 2017

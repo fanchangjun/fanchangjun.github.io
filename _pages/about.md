@@ -95,7 +95,6 @@ I am now recruiting Master and PhD students who are passionate about research, s
 - [中国指挥与控制学会青年科技奖](https://www.c2.org.cn/h-nd-3118.html)，2026
 - [中国指挥与控制学会科技进步一等奖](https://www.c2.org.cn/h-nd-3118.html)，2026 (2/15)
 - 湖南省杰出青年基金获得者，2025
-- 中国指挥与控制学会科技进步一等奖，2024 (6/12)
 - 吴文俊人工智能科技进步一等奖，2023 (12/15)
 - [世界人工智能大会青年优秀论文奖](https://www.waicyop.cn/article/11)，2023 (1/4)
 - 湖湘青年英才，2023
@@ -108,7 +107,6 @@ I am now recruiting Master and PhD students who are passionate about research, s
 - [Chinese Institute of Command and Control Society (CICC) Youth Science and Technology Award](https://www.c2.org.cn/h-nd-3118.html), 2026
 - [First Prize of the CICC Science and Technology Progress Award, awarded by Chinese Institute of Command and Control Society (CICC)](https://www.c2.org.cn/h-nd-3118.html), 2026 (2/15)
 - Outstanding Young Talent Fund recipient from Hunan Province, 2026
-- First Prize of the CICC Science and Technology Progress Award, awarded by Chinese Institute of Command and Control Society, 2024 (6/12)
 - First Prize of the Wu Wenjun Artificial Intelligence Science and Technology Progress Award, awarded by Wu Wenjun Artificial Intelligence Society, 2023 (12/15)
 - [World Artificial Intelligence Conference Youth Outstanding Paper (WAICYOP) Award](https://www.waicyop.cn/article/11), 2023 (1/4)
 - The Science and Technology Innovation Program of Hunan Province, awarded by Department of Science and Technology of Hunan, 2023

@@ -123,14 +123,16 @@ I am now recruiting Master and PhD students who are passionate about research, s
 - 主持，面向图挖掘的归纳式神经元算子学习，国家自然科学基金青年项目，30万，2023 – 2025
 - 主持，智能图计算及其在（军事）目标体系中的应用，湖南省自然科学基金杰出青年项目，50万, 2015 – 2017
 - 主持，复杂离散优化问题的高效机器学习求解研究，国防科技大学基石基金项目，100万，2025-2029
+- 核心骨干，对抗性复杂系统智能决策，国家自然科学基金创新研究群体项目，800万，2025-2029
 
 </div>
 
 <div class="lang-en" markdown="1">
 
-- PI, Research on XX operation research methods for large-scale XX optimization problems, Key Project Sub‑topic of the Central Military Science and Technology Commission, 1100w, 2026-2028
-- PI, Research on Data-Intelligence-Driven Learning-Based Solving of Combinatorial Optimization Problems, NSFC General Project, 40w, 2026 - 2028
-- PI, Inductive Neural Operator Learning for Graph Mining, NSFC Project for Young Scholars, 30w, 2023 – 2025
-- PI, Intelligent Graph Computing and Its Application in (Military) Target Systems, Hunan Provincial NSF for Excellent Young Scholars, 50w, 2015 – 2017
-- PI, Efficient Machine Learning Approaches for Solving Complex Discrete Optimization Problems, Innovation Research Foundation of National University of Defense Technology, 100w, 2025-2029
+- PI, Research on XX operation research methods for large-scale XX optimization problems, Key Project Sub‑topic of the Central Military Science and Technology Commission, ¥11,000,000, 2026-2028
+- PI, Research on Data-Intelligence-Driven Learning-Based Solving of Combinatorial Optimization Problems, NSFC General Project, ¥400,000, 2026 - 2028
+- PI, Inductive Neural Operator Learning for Graph Mining, NSFC Project for Young Scholars, ¥300,000, 2023 – 2025
+- PI, Intelligent Graph Computing and Its Application in (Military) Target Systems, Hunan Provincial NSF for Excellent Young Scholars, ¥500,000, 2015 – 2017
+- PI, Efficient Machine Learning Approaches for Solving Complex Discrete Optimization Problems, Innovation Research Foundation of National University of Defense Technology, ¥1,000,000, 2025-2029
+- Key Member, Intelligent Decision Making in Adversarial Complex Systems, NSFC Science Fund for Creative Research Groups, ¥8,000,000, 2025–2029
 </div>

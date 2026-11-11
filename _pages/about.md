@@ -93,7 +93,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 <div class="lang-zh" markdown="1">
 
 - [中国指挥与控制学会青年科技奖](https://www.c2.org.cn/h-nd-3118.html)，2026
-- [中国指挥与控制学会科技进步一等奖](https://www.c2.org.cn/h-nd-3118.html)，2026 (2/12)
+- [中国指挥与控制学会科技进步一等奖](https://www.c2.org.cn/h-nd-3118.html)，2026 (2/15)
 - 湖南省杰出青年基金获得者，2025
 - 中国指挥与控制学会科技进步一等奖，2024 (6/12)
 - 吴文俊人工智能科技进步一等奖，2023 (12/15)
@@ -106,7 +106,7 @@ I am now recruiting Master and PhD students who are passionate about research, s
 <div class="lang-en" markdown="1">
 
 - [Chinese Institute of Command and Control Society (CICC) Youth Science and Technology Award](https://www.c2.org.cn/h-nd-3118.html), 2026
-- [First Prize of the CICC Science and Technology Progress Award, awarded by Chinese Institute of Command and Control Society (CICC)](https://www.c2.org.cn/h-nd-3118.html), 2026 (2/12)
+- [First Prize of the CICC Science and Technology Progress Award, awarded by Chinese Institute of Command and Control Society (CICC)](https://www.c2.org.cn/h-nd-3118.html), 2026 (2/15)
 - Outstanding Young Talent Fund recipient from Hunan Province, 2026
 - First Prize of the CICC Science and Technology Progress Award, awarded by Chinese Institute of Command and Control Society, 2024 (6/12)
 - First Prize of the Wu Wenjun Artificial Intelligence Science and Technology Progress Award, awarded by Wu Wenjun Artificial Intelligence Society, 2023 (12/15)

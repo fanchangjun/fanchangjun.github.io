@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="lang-zh" markdown="1">
 
-我目前是国防科技大学（NUDT）系统工程学院副教授。本科与博士均毕业于国防科技大学；2017–2019年作为联合培养博士生在加州大学洛杉矶分校（UCLA）访学，师从[Yizhou Sun](https://web.cs.ucla.edu/~yzsun/)教授，期间还与哈佛医学院[Yang-Yu Liu](https://yangyuliu.bwh.harvard.edu/)教授密切合作。我的研究兴趣包括复杂网络、图机器学习与运筹优化。
+我目前是国防科技大学（NUDT）系统工程学院副教授，博士生导师。本科与博士均毕业于国防科技大学；2017–2019年作为联合培养博士生在加州大学洛杉矶分校（UCLA）访学，师从[Yizhou Sun](https://web.cs.ucla.edu/~yzsun/)教授，期间还与哈佛医学院[Yang-Yu Liu](https://yangyuliu.bwh.harvard.edu/)教授密切合作。我的研究兴趣包括复杂网络、图机器学习与运筹优化。
 
 </div>
 
